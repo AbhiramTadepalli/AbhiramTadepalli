@@ -1,37 +1,41 @@
-# Hi, I'm Abhiram 👋 
-**CS Major @ UTD | Aspiring [e.g., Software Engineer / Systems Architect]**
+# Hi, I'm Abhiram Tadepalli 👋 
+**Nebula Labs VP | AIS Inno Lab Director | CS @ UTD | OneTech SAP Delivery Intern @ Toyota**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,nextjs,pytorch,aws,docker,postgres,vercel,gcp" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ What I'm working on
-- 🔭 **Current Focus:** [e.g., Building a distributed key-value store in Go]
-- ⚡ **Recent Milestone:** [e.g., Merged a PR into a major open-source library / Finished X project]
-- 🌱 **Learning:** [e.g., Rust for WASM and Cloud-Native infrastructure]
+### ⚡ Live Impact Dashboard
+* **Leading Nebula Labs:** Architecting open-source tools for **25,000+ users**
+* **AI Innovation:** Directing 30+ engineers on agentic pipelines and system provenance
+* **Latest Win:** 1st Place @ AWS Breaking Barriers Hackathon (Echo 911).
 
-### 📊 My GitHub Stats
+### 🛠️ Dynamic Activity Streams
+#### 🚀 Recent Contributions
+*Currently pulling latest PRs and Reviews...*
+#### 📈 Technical Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramTadepalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramTadepalli&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramTadepalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramTadepalli&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
-### 🤝 Impact & Contributions
+---
 
-* **Total PRs Merged:** [Number or Link to PR search]
-* **Code Reviews Handled:** [Link to your review activity]
-* **Top Contributors to:** [Repo A], [Repo B]
-
-### 🕹️ Weekly Contribution Activity
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramTadepalli&theme=tokyonight)
+### 🧪 Featured Projects
+| Project | Stack | Impact |
+| :--- | :--- | :--- |
+| **Echo 911** | AWS Bedrock, Transcribe | 1st Place Winner; 3x operational effectiveness. |
+| **UTD Trends** | React, Agile Sprints | 180% MAU growth; serving 25k+ students. |
+| **UTD Clubs** | React, Neon | Delivering 200+ Clubs to over 3K students. |
 
 ---
+
+### 🕹️ Contribution Heatmap
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramTadepalli&theme=tokyonight)
 
 ### 📬 Connect with me
-[LinkedIn]([YOUR_LINK]) | [Personal Website]([YOUR_LINK]) | [Email](mailto:[YOUR_EMAIL])
+[LinkedIn](https://linkedin.com/in/abhiram-tadepalli) | [Portfolio](https://abhiramtadepalli.github.io)
