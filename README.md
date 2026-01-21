@@ -16,7 +16,8 @@
 
 ### 🛠️ Dynamic Activity Streams
 #### 🚀 Recent Contributions
-![Metrics](/github-metrics.svg)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 #### 📈 Technical Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramTadepalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
