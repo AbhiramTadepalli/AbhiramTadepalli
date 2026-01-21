@@ -14,12 +14,9 @@
 * **AI Innovation:** Directing 30+ engineers on agentic pipelines and system provenance
 * **Latest Win:** 1st Place @ AWS Breaking Barriers Hackathon (Echo 911).
 
-### 🛠️ Dynamic Activity Streams
-#### 🚀 Recent Contributions
-
-<!--START_SECTION:activity-->
-wahooey
-<!--END_SECTION:activity-->
+### Contributions
+[My Reviews](https://github.com/search?q=reviewed-by%3AAbhiramTadepalli+is%3Apr)
+![Metrics](/github-metrics.svg)
 
 #### 📈 Technical Stats
 <p align="center">
