@@ -18,6 +18,7 @@
 #### 🚀 Recent Contributions
 
 <!--START_SECTION:activity-->
+wahooey
 <!--END_SECTION:activity-->
 
 #### 📈 Technical Stats
