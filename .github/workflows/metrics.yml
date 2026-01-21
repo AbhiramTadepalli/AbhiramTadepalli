@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_SECRET }}
           user: AbhiramTadepalli
           template: classic
           base: header, community, repositories, metadata
