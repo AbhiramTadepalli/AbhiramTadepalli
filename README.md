@@ -16,13 +16,5 @@
 
 ---
 
-#### 📈 Technical Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramTadepalli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramTadepalli&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
 ### 📬 Connect with me
 [LinkedIn](https://linkedin.com/in/abhiram-tadepalli) | [Portfolio](https://abhiramtadepalli.github.io)
